@@ -1,4 +1,4 @@
-#!/Users/jimmyerickson/Desktop/citylight_funds/environment/bin/python3
+#!/Users/jimmyerickson/Documents/GitHub/church-reporting/environment/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
